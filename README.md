@@ -1,5 +1,10 @@
-# 🤖 Amin's Smart Telegram Bot
-*Powered by Docker, Ollama, Gemini AI & Advanced Integrations*
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2500&pause=600&color=26A5E4&center=true&vCenter=true&width=700&lines=Amin's+Smart+Telegram+Bot" alt="Amin's Smart Telegram Bot" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=444444&center=true&vCenter=true&width=700&lines=Powered+by+Docker+%7C+Ollama+%7C+Gemini+AI;Gmail+%7C+Drive+%7C+Sheets+Integration;Smart+%7C+Fast+%7C+Automated" alt="Subtitle" />
+
+<br>
 
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)](https://docker.com)
 [![Ollama](https://img.shields.io/badge/Ollama-AI_Models-FF6B35?style=for-the-badge&logo=ollama)](https://ollama.ai)
@@ -9,6 +14,8 @@
 [![WSL](https://img.shields.io/badge/WSL-Linux_Subsystem-FCC624?style=for-the-badge&logo=linux)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python)](https://python.org)
 [![JSON](https://img.shields.io/badge/JSON-Data_Format-000000?style=for-the-badge&logo=json)](https://json.org)
+
+</div>
 
 ---
 
@@ -382,10 +389,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Amin Moniry** 💛
-- 🐙 GitHub: [https://github.com/Amin-moniry-pr7](https://github.com/Amin-moniry-pr7)
-- 📧 Email: [Contact via GitHub]
-- 💼 Portfolio: [Check GitHub for more projects]
+**Amin Moniry (AminTivanix2)** 💛
+
+| Channel | Link |
+|---|---|
+| 🐙 GitHub | [Amin-Moniry](https://github.com/Amin-Moniry) |
+| 📧 Email | [amintivanix2@gmail.com](mailto:amintivanix2@gmail.com) |
+| 📱 Telegram | [@amintivanix2](https://t.me/amintivanix2) |
+| 🌐 Website | [allin1wrench.ir](https://allin1wrench.ir) |
 
 ---
 
@@ -405,11 +416,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 #### n8n UI Preview:
 ![Dashboard UI](Image/n8n_1.png)
+
 <div align="center">
 
 ### 🌟 If this project helped you, please consider giving it a star! 🌟
 
-**Made with 💛 by Amin Moniry**
+**Made with 💛 by Amin Moniry (AminTivanix2)**
 
 *Transforming communication through intelligent automation*
 
